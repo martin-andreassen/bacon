@@ -1,2 +1,4 @@
 # bacon
-Testrepo som heter Bacon
+Testrepo som heter Bacon.
+
+Repoet har ingen funksjonalitet utover test
